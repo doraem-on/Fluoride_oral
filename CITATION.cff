@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: "Dataset Author"
+    given-names: "Name"
+title: "Global Oral Care Products Intelligence Dataset (GOPID) 2026"
+version: 1.0.0
+date-released: 2026-07-17

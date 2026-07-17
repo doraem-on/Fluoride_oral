@@ -1,0 +1,11 @@
+{
+    "title": "Global Oral Care Products Intelligence Dataset (GOPID) 2026",
+    "alternative_names": [
+        "OralAtlas 2026",
+        "Open Oral Care Intelligence Dataset (OOCID)"
+    ],
+    "version": "1.0.0-draft",
+    "description": "A standardized, research-grade dataset of oral care products.",
+    "license": "CC-BY-4.0",
+    "update_policy": "Quarterly"
+}
