@@ -1,0 +1,55 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "OralAtlas Ingestion Schema",
+    "type": "object",
+    "required": [
+        "source_url",
+        "collection_date",
+        "brand",
+        "product_name"
+    ],
+    "properties": {
+        "source_url": {
+            "type": "string",
+            "format": "uri"
+        },
+        "collection_date": {
+            "type": "string",
+            "format": "date"
+        },
+        "verification_status": {
+            "type": "string",
+            "enum": [
+                "Verified",
+                "Pending",
+                "Demo"
+            ]
+        },
+        "confidence": {
+            "type": "string",
+            "enum": [
+                "High",
+                "Medium",
+                "Low"
+            ]
+        },
+        "brand": {
+            "type": "string"
+        },
+        "product_name": {
+            "type": "string"
+        },
+        "ingredients": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "claims": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        }
+    }
+}

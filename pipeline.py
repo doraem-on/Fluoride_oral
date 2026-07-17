@@ -8,7 +8,7 @@ import os
 
 def main():
     base = os.path.dirname(os.path.abspath(__file__))
-    raw_dir = os.path.join(base, 'raw_data')
+    raw_dir = os.path.join(base, 'raw_data', 'verified')
     data_dir = base
     export_dir = os.path.join(base, 'exports')
     

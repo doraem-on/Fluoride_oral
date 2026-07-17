@@ -1,0 +1,5 @@
+Source_Name,Official_URL,Region,Data_Available,Scraping_Method,Last_Collection,Reliability_Score
+Colgate,https://www.colgate.com,Global,"Ingredients, Claims",API/Scraper,,High
+Sensodyne,https://www.sensodyne.com,Global,"Ingredients, Claims",API/Scraper,,High
+Crest,https://www.crest.com,North America,"Ingredients, Claims",API/Scraper,,High
+Tom's of Maine,https://www.tomsofmaine.com,North America,"Ingredients, Sustainability",API/Scraper,,High
