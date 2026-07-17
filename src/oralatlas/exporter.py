@@ -19,7 +19,8 @@ def export_formats(data_dir, export_dir):
             df.to_sql(table_name, conn, if_exists='replace', index=False)
             df.to_parquet(os.path.join(export_dir, f"{table_name}.parquet"))
             df.to_json(os.path.join(export_dir, f"{table_name}.json"), orient='records')
+            df.to_csv(os.path.join(export_dir, f"{table_name}.csv"), index=False)
         except Exception as e:
-            pass # Skip empty or invalid CSVs
+            print(f"Failed exporting {f}: {e}")
     conn.close()
-    print("Exported to SQLite, Parquet, and JSON.")
+    print("Exported to SQLite, Parquet, JSON, and CSV.")
