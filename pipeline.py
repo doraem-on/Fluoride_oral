@@ -13,8 +13,8 @@ def main():
     export_dir = os.path.join(base, 'exports')
     
     # Pipeline execution
-    # collect_from_raw(raw_dir, os.path.join(data_dir, 'raw_consolidated.csv'))
-    # normalize_data(os.path.join(data_dir, 'raw_consolidated.csv'), os.path.join(data_dir, 'normalized.csv'))
+    collect_from_raw(raw_dir, os.path.join(data_dir, 'raw_consolidated.csv'))
+    normalize_data(os.path.join(data_dir, 'raw_consolidated.csv'), os.path.join(data_dir, 'products.csv'))
     
     if run_qa_pipeline(data_dir):
         compute_features(data_dir)

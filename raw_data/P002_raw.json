@@ -1,0 +1,23 @@
+[
+    {
+        "Product_ID": "P002",
+        "Product_Name": "Colgate Total Clean Mint",
+        "Brand_ID": "B002",
+        "Category_ID": "C001",
+        "Target_Audience": "Adult",
+        "Age_Group": "12+",
+        "Prescription_Required": false,
+        "Professional_Use": false,
+        "Travel_Size": false,
+        "Launch_Year": 1992,
+        "Data_Quality_Score": 90,
+        "Completeness_Score": 95,
+        "Source_URL": "https://www.colgate.com",
+        "Collection_Date": "2026-07-17",
+        "Verified_By": "System",
+        "Verification_Status": "Verified",
+        "Confidence": "High",
+        "weight_oz": 4.8,
+        "price_eur": 4.2
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Product_ID": "P004",
+        "Product_Name": "Marvis Classic Strong Mint",
+        "Brand_ID": "B004",
+        "Category_ID": "C001",
+        "Target_Audience": "Adult",
+        "Age_Group": "12+",
+        "Prescription_Required": false,
+        "Professional_Use": false,
+        "Travel_Size": false,
+        "Launch_Year": 1958,
+        "Data_Quality_Score": 85,
+        "Completeness_Score": 85,
+        "Source_URL": "https://www.marvis.com",
+        "Collection_Date": "2026-07-17",
+        "Verified_By": "System",
+        "Verification_Status": "Verified",
+        "Confidence": "High",
+        "weight_oz": 3.86,
+        "price_eur": 8.5
+    }
+]

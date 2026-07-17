@@ -1,1 +1,6 @@
-Product_ID,Product_Name,Brand_ID,Category_ID,Target_Audience,Age_Group,Prescription_Required,Professional_Use,Travel_Size,Launch_Year,Data_Quality_Score,Completeness_Score,Source_URL,Collection_Date,Verified_By,Verification_Status,Confidence
+Product_ID,Product_Name,Brand_ID,Category_ID,Target_Audience,Age_Group,Prescription_Required,Professional_Use,Travel_Size,Launch_Year,Data_Quality_Score,Completeness_Score,Source_URL,Collection_Date,Verified_By,Verification_Status,Confidence,weight_oz,price_eur,Weight_g,Price_USD
+P001,Sensodyne Pronamel Gentle Whitening,B001,C001,Adult,12+,False,False,False,2006,95,100,https://www.sensodyne.com,2026-07-17,System,Verified,High,4.0,5.5,113.398,6.050000000000001
+P002,Colgate Total Clean Mint,B002,C001,Adult,12+,False,False,False,1992,90,95,https://www.colgate.com,2026-07-17,System,Verified,High,4.8,4.2,136.0776,4.620000000000001
+P003,Crest 3D White Advanced,B003,C001,Adult,12+,False,False,False,2010,88,90,https://www.crest.com,2026-07-17,System,Verified,High,3.8,6.0,107.7281,6.6000000000000005
+P005,Elmex Caries Protection,B005,C001,Adult,12+,False,False,False,1962,92,95,https://www.elmex.com,2026-07-17,System,Verified,High,2.5,3.8,70.87375,4.18
+P004,Marvis Classic Strong Mint,B004,C001,Adult,12+,False,False,False,1958,85,85,https://www.marvis.com,2026-07-17,System,Verified,High,3.86,8.5,109.42907,9.350000000000001
