@@ -1,1 +1,30 @@
-Brand_ID,Brand_Name,Manufacturer_ID,Premium_Index,Source_URL
+Brand_ID,Brand_Name,Manufacturer_ID,Premium_Index
+B_51355bb6,Colgate,M_4510126a,0
+B_fab5ad8b,Crest,M_e7f043b8,0
+B_ab04317f,Oral-B,M_e7f043b8,0
+B_e64e8410,Sensodyne,M_61474790,0
+B_142be5e1,Parodontax,M_61474790,0
+B_8ce5cc76,Aquafresh,M_61474790,0
+B_53cd7f87,Biotène,M_61474790,0
+B_b68660ed,Elmex,M_4510126a,0
+B_adba8667,Meridol,M_4510126a,0
+B_65dffb3d,Tom's of Maine,M_4510126a,0
+B_a99e0a45,Hello Products,M_4510126a,0
+B_e947028c,Marvis,M_e17504e8,0
+B_df88995f,Curaprox,M_69e88568,0
+B_bfb19b76,Zendium,M_79e805de,0
+B_085fea7a,Signal,M_79e805de,0
+B_3ec3139a,Closeup,M_79e805de,0
+B_357f213e,Pepsodent,M_79e805de,0
+B_de8ecfb7,Himalaya,M_45d90278,0
+B_52ae28b2,Dabur Red,M_79948b7a,0
+B_a8be44f5,Vicco,M_ae54b764,0
+B_bc771bb8,Lion Clinica,M_38d0f342,0
+B_11eba336,Ora2,M_a6e8fe60,0
+B_b40d22c9,GUM,M_a6e8fe60,0
+B_ff858ded,Apagard,M_74bfd523,0
+B_543a05c0,GC Tooth Mousse,M_050e556e,0
+B_d3208550,Arm & Hammer,M_aae2314c,0
+B_9c74a38e,Dr. Bronner's,M_9c74a38e,0
+B_159fd9b6,Davids,M_e48f0eeb,0
+B_2e94c7df,Boka,M_2e94c7df,0
