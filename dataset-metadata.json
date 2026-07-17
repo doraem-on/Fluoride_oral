@@ -1,0 +1,22 @@
+{
+  "title": "OralAtlas 2026: Global Oral Care Intelligence",
+  "id": "lalit/oralatlas-2026",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "description": "OralAtlas is an open, research-grade relational dataset designed to support machine learning, public health research, market intelligence, and ingredient analytics for global oral care products. Version 1.0 contains 194 curated product records collected from official manufacturer sources and normalized into a relational database with SQLite, CSV, and Parquet exports. It features deep analytics on active ingredients, claims (e.g. Whitening, Sensitive), and sustainability metrics.",
+  "keywords": [
+    "healthcare",
+    "dentistry",
+    "consumer products",
+    "public health",
+    "data engineering",
+    "relational database",
+    "machine learning",
+    "data visualization",
+    "ingredients",
+    "product analytics"
+  ]
+}
