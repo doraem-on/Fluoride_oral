@@ -6,9 +6,9 @@ An open, research-grade relational dataset of global oral care products collecte
 - **30 brands**
 - **17 manufacturers**
 - **62 unique active ingredients**
-- **25 countries**
+- **12 countries/regions**
 - **100% official-source derived**
-- **12 normalized relational tables**
+- **15 normalized relational tables**
 - **SQLite + Parquet + CSV**
 - **Knowledge Graph Ready**
 - **Machine Learning Ready**
