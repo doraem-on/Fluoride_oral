@@ -89,7 +89,7 @@ We treat OralAtlas like an evolving open-source project.
 
 ## Citation
 If you use this dataset in your research, please cite:
-> Dataset Author. (2026). Global Oral Care Products Intelligence Dataset (GOPID) 2026. GitHub. https://github.com/doraem-on/Fluoride_oral
+> Kishore, Lalit. (2026). *OralAtlas 2026: Global Dental Products Database*. Kaggle. https://www.kaggle.com/datasets/lalitkishorer/global-dental-products-database-verified
 
 ## License
 This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
