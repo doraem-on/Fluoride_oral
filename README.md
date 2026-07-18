@@ -80,7 +80,7 @@ OralAtlas operates like a software project. We utilize a CI testing pipeline (`p
 We treat OralAtlas like an evolving open-source project. 
 
 - ✅ **v1.0** — 194 curated product records collected from official manufacturer sources.
-- ✅ **v1.1** — Expansion to 500 products
+- ✅ **v1.1** — Expansion to 269 products
 - ✅ **v1.2** — Expansion to Mouthwash
 - ✅ **v1.3** — Dental floss additions
 - ✅ **v2.0** — Electric toothbrushes
