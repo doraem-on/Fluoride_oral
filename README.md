@@ -84,8 +84,7 @@ We treat OralAtlas like an evolving open-source project.
 - ✅ **v1.2** — Expansion to Mouthwash
 - ✅ **v1.3** — Dental floss additions
 - ✅ **v2.0** — Electric toothbrushes
-- 🚀 **v2.5** — Interactive Streamlit Dashboard
-- 🚀 **v3.0** — Knowledge graph + Public API
+
 
 ## Citation
 If you use this dataset in your research, please cite:
