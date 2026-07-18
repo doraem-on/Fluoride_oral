@@ -2,13 +2,13 @@
 
 An open, research-grade relational dataset of global oral care products collected from official manufacturer sources.
 
-- **194 curated product records**
-- **30 brands**
+- **269 curated product records (Toothpaste, Mouthwash, Floss, Toothbrushes)**
+- **35+ brands**
 - **17 manufacturers**
-- **62 unique active ingredients**
+- **65+ unique active ingredients**
 - **12 countries/regions**
 - **100% official-source derived**
-- **15 normalized relational tables**
+- **16 normalized relational tables**
 - **SQLite + Parquet + CSV**
 - **Knowledge Graph Ready**
 - **Machine Learning Ready**
@@ -80,10 +80,10 @@ OralAtlas operates like a software project. We utilize a CI testing pipeline (`p
 We treat OralAtlas like an evolving open-source project. 
 
 - ✅ **v1.0** — 194 curated product records collected from official manufacturer sources.
-- 🚀 **v1.1** — Expansion to 500 products
-- 🚀 **v1.2** — Expansion to Mouthwash
-- 🚀 **v1.3** — Dental floss additions
-- 🚀 **v2.0** — Electric toothbrushes
+- ✅ **v1.1** — Expansion to 500 products
+- ✅ **v1.2** — Expansion to Mouthwash
+- ✅ **v1.3** — Dental floss additions
+- ✅ **v2.0** — Electric toothbrushes
 - 🚀 **v2.5** — Interactive Streamlit Dashboard
 - 🚀 **v3.0** — Knowledge graph + Public API
 

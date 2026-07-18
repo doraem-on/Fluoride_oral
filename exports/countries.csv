@@ -1,1 +1,13 @@
 Country_ID,Country_Code,Country_Name,Region
+CTRY_1,USA,USA,USA
+CTRY_2,GER,Germany/EU,Germany/EU
+CTRY_3,ITA,Italy,Italy
+CTRY_4,SWI,Switzerland,Switzerland
+CTRY_5,UK/,UK/EU,UK/EU
+CTRY_6,UK/,UK/Global,UK/Global
+CTRY_7,IND,India/SEA,India/SEA
+CTRY_8,IND,India/Global,India/Global
+CTRY_9,IND,India,India
+CTRY_10,JAP,Japan,Japan
+CTRY_11,USA,USA/Global,USA/Global
+CTRY_12,JAP,Japan/Global,Japan/Global

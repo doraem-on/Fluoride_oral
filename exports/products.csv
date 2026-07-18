@@ -1,195 +1,270 @@
 Product_ID,Product_Name,Brand_ID,Category_ID,Target_Audience,Data_Quality_Score,Completeness_Score,Source_URL,Collection_Date,Verification_Status,Confidence
-COL001,Total Clean Mint,B_51355bb6,CAT_1,Adult,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-COL002,Total Active Prevention Whitening Gel,B_51355bb6,CAT_1,Adult,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-COL003,Total Active Prevention Sensitivity Mineral Shield,B_51355bb6,CAT_1,Adult,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-COL004,Total Plaque Pro Release Whitening Gel,B_51355bb6,CAT_1,Adult,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-COL005,Optic White Advanced,B_51355bb6,CAT_1,Adult,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-COL006,Optic White Renewal,B_51355bb6,CAT_1,Adult,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-COL007,Max Fresh Cool Mint,B_51355bb6,CAT_1,Adult,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-COL008,Cavity Protection Great Regular Flavor,B_51355bb6,CAT_1,Adult,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-COL009,Sensitive Enamel Health,B_51355bb6,CAT_1,Adult,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-COL010,Baking Soda and Peroxide Whitening,B_51355bb6,CAT_1,Adult,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-COL011,Kids Cavity Protection Strawberry Burst,B_51355bb6,CAT_1,Kids,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-COL012,Kids Unicorn Academy,B_51355bb6,CAT_1,Kids,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-COL013,Revitalizing White Activated Charcoal,B_51355bb6,CAT_1,Adult,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-COL014,Total Whitening,B_51355bb6,CAT_1,Adult,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-COL015,Zero Fluoride-Free,B_51355bb6,CAT_1,Adult,100,100,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
-CRE001,Pro-Health Clean Mint,B_fab5ad8b,CAT_1,Adult,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-CRE002,Pro-Health + Scope,B_fab5ad8b,CAT_1,Adult,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-CRE003,3D White Brilliance,B_fab5ad8b,CAT_1,Adult,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-CRE004,3D White Whitening Therapy,B_fab5ad8b,CAT_1,Adult,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-CRE005,Pro-Health Gum Detoxify,B_fab5ad8b,CAT_1,Adult,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-CRE006,Pro-Health Gum & Sensitivity,B_fab5ad8b,CAT_1,Adult,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-CRE007,Cavity Protection Regular,B_fab5ad8b,CAT_1,Adult,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-CRE008,Complete Whitening + Scope,B_fab5ad8b,CAT_1,Adult,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-CRE009,Baking Soda & Peroxide Whitening,B_fab5ad8b,CAT_1,Adult,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-CRE010,Kids Sparkle Cavity Protection,B_fab5ad8b,CAT_1,Kids,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-CRE011,Kids Sugar & Bacteria Shield,B_fab5ad8b,CAT_1,Kids,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-CRE012,Kids Color Changing,B_fab5ad8b,CAT_1,Kids,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-CRE013,Charcoal,B_fab5ad8b,CAT_1,Adult,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-CRE014,Scope Active Fresh Whitening,B_fab5ad8b,CAT_1,Adult,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-CRE015,Pro-Health Advanced,B_fab5ad8b,CAT_1,Adult,100,100,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
-ORB001,3D White Luxe,B_ab04317f,CAT_1,Adult,100,100,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
-ORB002,Pro-Expert Multi-Protection,B_ab04317f,CAT_1,Adult,100,100,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
-ORB003,Pro-Expert Sensitive,B_ab04317f,CAT_1,Adult,100,100,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
-ORB004,Gum & Enamel Repair,B_ab04317f,CAT_1,Adult,100,100,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
-ORB005,Cavity Defense,B_ab04317f,CAT_1,Adult,100,100,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
-ORB006,3D White Detoxify,B_ab04317f,CAT_1,Adult,100,100,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
-ORB007,Pro-Expert Whitening,B_ab04317f,CAT_1,Adult,100,100,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
-ORB008,Kids Toothpaste Disney,B_ab04317f,CAT_1,Kids,100,100,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
-SEN001,Repair & Protect,B_e64e8410,CAT_1,Adult,100,100,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
-SEN002,Repair & Protect Whitening,B_e64e8410,CAT_1,Adult,100,100,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
-SEN003,Pronamel Daily Protection,B_e64e8410,CAT_1,Adult,100,100,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
-SEN004,Pronamel Gentle Whitening,B_e64e8410,CAT_1,Adult,100,100,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
-SEN005,Pronamel Intensive Enamel Repair,B_e64e8410,CAT_1,Adult,100,100,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
-SEN006,Rapid Relief,B_e64e8410,CAT_1,Adult,100,100,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
-SEN007,Rapid Relief Extra Fresh,B_e64e8410,CAT_1,Adult,100,100,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
-SEN008,Complete Protection,B_e64e8410,CAT_1,Adult,100,100,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
-SEN009,Extra Whitening,B_e64e8410,CAT_1,Adult,100,100,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
-SEN010,Clinical White,B_e64e8410,CAT_1,Adult,100,100,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
-SEN011,Sensitivity & Gum,B_e64e8410,CAT_1,Adult,100,100,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
-SEN012,Fresh Mint (Original),B_e64e8410,CAT_1,Adult,100,100,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
-PAR001,Complete Protection,B_142be5e1,CAT_1,Adult,100,100,https://www.parodontax.com/en-us/products/,2026-07-17,Verified,High
-PAR002,Extra Fresh,B_142be5e1,CAT_1,Adult,100,100,https://www.parodontax.com/en-us/products/,2026-07-17,Verified,High
-PAR003,Whitening,B_142be5e1,CAT_1,Adult,100,100,https://www.parodontax.com/en-us/products/,2026-07-17,Verified,High
-PAR004,Daily Gum Care,B_142be5e1,CAT_1,Adult,100,100,https://www.parodontax.com/en-us/products/,2026-07-17,Verified,High
-PAR005,Active Gum Repair,B_142be5e1,CAT_1,Adult,100,100,https://www.parodontax.com/en-us/products/,2026-07-17,Verified,High
-PAR006,Gum Health & Sensitivity,B_142be5e1,CAT_1,Adult,100,100,https://www.parodontax.com/en-us/products/,2026-07-17,Verified,High
-AQU001,Triple Protection,B_8ce5cc76,CAT_1,Adult,100,100,https://www.aquafresh.com/en-us/our-products/,2026-07-17,Verified,High
-AQU002,Extreme Clean Whitening,B_8ce5cc76,CAT_1,Adult,100,100,https://www.aquafresh.com/en-us/our-products/,2026-07-17,Verified,High
-AQU003,Sensitive Maximum Strength,B_8ce5cc76,CAT_1,Adult,100,100,https://www.aquafresh.com/en-us/our-products/,2026-07-17,Verified,High
-AQU004,Multi-Action Whitening,B_8ce5cc76,CAT_1,Adult,100,100,https://www.aquafresh.com/en-us/our-products/,2026-07-17,Verified,High
-AQU005,Kids Mild Mint,B_8ce5cc76,CAT_1,Kids,100,100,https://www.aquafresh.com/en-us/our-products/,2026-07-17,Verified,High
-AQU006,Big Teeth Little Teeth,B_8ce5cc76,CAT_1,Kids,100,100,https://www.aquafresh.com/en-us/our-products/,2026-07-17,Verified,High
-AQU007,Advance Gum Protection,B_8ce5cc76,CAT_1,Adult,100,100,https://www.aquafresh.com/en-us/our-products/,2026-07-17,Verified,High
-BIO001,Dry Mouth Toothpaste Original,B_53cd7f87,CAT_1,Adult,100,100,https://www.biotene.com/products/,2026-07-17,Verified,High
-BIO002,Dry Mouth Toothpaste Fresh Mint,B_53cd7f87,CAT_1,Adult,100,100,https://www.biotene.com/products/,2026-07-17,Verified,High
-BIO003,Gentle Mint Fluoride Toothpaste,B_53cd7f87,CAT_1,Adult,100,100,https://www.biotene.com/products/,2026-07-17,Verified,High
-BIO004,Supreme Gum Health Toothpaste,B_53cd7f87,CAT_1,Adult,100,100,https://www.biotene.com/products/,2026-07-17,Verified,High
-ELM001,Caries Protection,B_b68660ed,CAT_1,Adult,100,100,https://www.elmex.com/en/products/,2026-07-17,Verified,High
-ELM002,Sensitive Professional,B_b68660ed,CAT_1,Adult,100,100,https://www.elmex.com/en/products/,2026-07-17,Verified,High
-ELM003,Gentle Whitening,B_b68660ed,CAT_1,Adult,100,100,https://www.elmex.com/en/products/,2026-07-17,Verified,High
-ELM004,Junior (6-12 years),B_b68660ed,CAT_1,Kids,100,100,https://www.elmex.com/en/products/,2026-07-17,Verified,High
-ELM005,Erosion Protection,B_b68660ed,CAT_1,Adult,100,100,https://www.elmex.com/en/products/,2026-07-17,Verified,High
-ELM006,Anti-Bacterial Gum Protection,B_b68660ed,CAT_1,Adult,100,100,https://www.elmex.com/en/products/,2026-07-17,Verified,High
-MER001,Gum Protection Toothpaste,B_adba8667,CAT_1,Adult,100,100,https://www.meridol.com/en/products/,2026-07-17,Verified,High
-MER002,Halitosis Toothpaste,B_adba8667,CAT_1,Adult,100,100,https://www.meridol.com/en/products/,2026-07-17,Verified,High
-MER003,Sensitive Teeth Toothpaste,B_adba8667,CAT_1,Adult,100,100,https://www.meridol.com/en/products/,2026-07-17,Verified,High
-MER004,Gum Protection Whitening,B_adba8667,CAT_1,Adult,100,100,https://www.meridol.com/en/products/,2026-07-17,Verified,High
-TOM001,Whole Care Anticavity,B_65dffb3d,CAT_1,Adult,100,100,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
-TOM002,Simply White Clean Mint,B_65dffb3d,CAT_1,Adult,100,100,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
-TOM003,Rapid Relief Sensitive,B_65dffb3d,CAT_1,Adult,100,100,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
-TOM004,Wicked Fresh! Cool Peppermint,B_65dffb3d,CAT_1,Adult,100,100,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
-TOM005,Antiplaque & Whitening,B_65dffb3d,CAT_1,Adult,100,100,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
-TOM006,Fluoride-Free Anticavity,B_65dffb3d,CAT_1,Adult,100,100,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
-TOM007,Kids Natural Silly Strawberry,B_65dffb3d,CAT_1,Kids,100,100,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
-TOM008,Clean & Gentle Whitening,B_65dffb3d,CAT_1,Adult,100,100,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
-TOM009,Coconut Oil Cavity Protection,B_65dffb3d,CAT_1,Adult,100,100,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
-TOM010,Charcoal Whitening,B_65dffb3d,CAT_1,Adult,100,100,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
-HEL001,Antiplaque & Whitening Fluoride Toothpaste,B_a99e0a45,CAT_1,Adult,100,100,https://www.hello-products.com/collections/toothpaste,2026-07-17,Verified,High
-HEL002,Naturally Whitening Fluoride-Free Charcoal,B_a99e0a45,CAT_1,Adult,100,100,https://www.hello-products.com/collections/toothpaste,2026-07-17,Verified,High
-HEL003,Kids Fluoride-Free Strawberry,B_a99e0a45,CAT_1,Kids,100,100,https://www.hello-products.com/collections/toothpaste,2026-07-17,Verified,High
-HEL004,Sensitivity Relief Fluoride Toothpaste,B_a99e0a45,CAT_1,Adult,100,100,https://www.hello-products.com/collections/toothpaste,2026-07-17,Verified,High
-HEL005,Antiplaque Whitening Fluoride-Free Coconut Oil,B_a99e0a45,CAT_1,Adult,100,100,https://www.hello-products.com/collections/toothpaste,2026-07-17,Verified,High
-HEL006,Farm to Tube Vegan Fluoride Toothpaste,B_a99e0a45,CAT_1,Adult,100,100,https://www.hello-products.com/collections/toothpaste,2026-07-17,Verified,High
-HEL007,Whitening Fluoride-Free Charcoal Kids,B_a99e0a45,CAT_1,Kids,100,100,https://www.hello-products.com/collections/toothpaste,2026-07-17,Verified,High
-MAR001,Classic Strong Mint,B_e947028c,CAT_1,Adult,100,100,https://www.marvis.it/en/products/,2026-07-17,Verified,High
-MAR002,Whitening Mint,B_e947028c,CAT_1,Adult,100,100,https://www.marvis.it/en/products/,2026-07-17,Verified,High
-MAR003,Aquatic Mint,B_e947028c,CAT_1,Adult,100,100,https://www.marvis.it/en/products/,2026-07-17,Verified,High
-MAR004,Cinnamon Mint,B_e947028c,CAT_1,Adult,100,100,https://www.marvis.it/en/products/,2026-07-17,Verified,High
-MAR005,Jasmin Mint,B_e947028c,CAT_1,Adult,100,100,https://www.marvis.it/en/products/,2026-07-17,Verified,High
-MAR006,Amarelli Licorice Mint,B_e947028c,CAT_1,Adult,100,100,https://www.marvis.it/en/products/,2026-07-17,Verified,High
-MAR007,Ginger Mint,B_e947028c,CAT_1,Adult,100,100,https://www.marvis.it/en/products/,2026-07-17,Verified,High
-MAR008,Sweet & Sour Rhubarb,B_e947028c,CAT_1,Adult,100,100,https://www.marvis.it/en/products/,2026-07-17,Verified,High
-CUR001,Black Is White Whitening,B_df88995f,CAT_1,Adult,100,100,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
-CUR002,Enzycal 950,B_df88995f,CAT_1,Adult,100,100,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
-CUR003,Enzycal 1450,B_df88995f,CAT_1,Adult,100,100,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
-CUR004,Be You Toothpaste,B_df88995f,CAT_1,Adult,100,100,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
-CUR005,Kids Toothpaste 0-4 / 4-12,B_df88995f,CAT_1,Kids,100,100,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
-CUR006,Perio Plus Toothpaste,B_df88995f,CAT_1,Adult,100,100,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
-CUR007,Whitening Toothpaste,B_df88995f,CAT_1,Adult,100,100,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
-CUR008,Superwhite Toothpaste,B_df88995f,CAT_1,Adult,100,100,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
-ZEN001,Advanced Toothpaste,B_bfb19b76,CAT_1,Adult,100,100,https://www.zendium.co.uk/products/,2026-07-17,Verified,High
-ZEN002,Complete Protection,B_bfb19b76,CAT_1,Adult,100,100,https://www.zendium.co.uk/products/,2026-07-17,Verified,High
-ZEN003,White Toothpaste,B_bfb19b76,CAT_1,Adult,100,100,https://www.zendium.co.uk/products/,2026-07-17,Verified,High
-ZEN004,Sensitive Toothpaste,B_bfb19b76,CAT_1,Adult,100,100,https://www.zendium.co.uk/products/,2026-07-17,Verified,High
-ZEN005,Kids Toothpaste,B_bfb19b76,CAT_1,Kids,100,100,https://www.zendium.co.uk/products/,2026-07-17,Verified,High
-SIG001,White Now,B_085fea7a,CAT_1,Adult,100,100,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
-SIG002,Integral 8,B_085fea7a,CAT_1,Adult,100,100,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
-SIG003,Herbal,B_085fea7a,CAT_1,Adult,100,100,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
-SIG004,Sensitive Expert,B_085fea7a,CAT_1,Adult,100,100,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
-SIG005,Kids Toothpaste,B_085fea7a,CAT_1,Kids,100,100,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
-SIG006,Cavity Fighter,B_085fea7a,CAT_1,Adult,100,100,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
-SIG007,Anti-Plaque,B_085fea7a,CAT_1,Adult,100,100,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
-SIG008,White System,B_085fea7a,CAT_1,Adult,100,100,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
-CLO001,Red Hot Gel,B_3ec3139a,CAT_1,Adult,100,100,https://www.closeup.com/products/,2026-07-17,Verified,High
-CLO002,Ever Fresh Gel,B_3ec3139a,CAT_1,Adult,100,100,https://www.closeup.com/products/,2026-07-17,Verified,High
-CLO003,Menthol Fresh Gel,B_3ec3139a,CAT_1,Adult,100,100,https://www.closeup.com/products/,2026-07-17,Verified,High
-CLO004,Deep Action Gel,B_3ec3139a,CAT_1,Adult,100,100,https://www.closeup.com/products/,2026-07-17,Verified,High
-CLO005,Milk Calcium,B_3ec3139a,CAT_1,Adult,100,100,https://www.closeup.com/products/,2026-07-17,Verified,High
-CLO006,Diamond Attraction Whitening,B_3ec3139a,CAT_1,Adult,100,100,https://www.closeup.com/products/,2026-07-17,Verified,High
-PEP001,Center Fresh Gel,B_357f213e,CAT_1,Adult,100,100,https://www.pepsodent.com/products/,2026-07-17,Verified,High
-PEP002,Germicheck,B_357f213e,CAT_1,Adult,100,100,https://www.pepsodent.com/products/,2026-07-17,Verified,High
-PEP003,Complete Care 12,B_357f213e,CAT_1,Adult,100,100,https://www.pepsodent.com/products/,2026-07-17,Verified,High
-PEP004,Whitening,B_357f213e,CAT_1,Adult,100,100,https://www.pepsodent.com/products/,2026-07-17,Verified,High
-PEP005,Expert Protection Total Care,B_357f213e,CAT_1,Adult,100,100,https://www.pepsodent.com/products/,2026-07-17,Verified,High
-PEP006,Herbal,B_357f213e,CAT_1,Adult,100,100,https://www.pepsodent.com/products/,2026-07-17,Verified,High
-PEP007,Ayurvedic Extracts,B_357f213e,CAT_1,Adult,100,100,https://www.pepsodent.com/products/,2026-07-17,Verified,High
-PEP008,Sensitive Expert,B_357f213e,CAT_1,Adult,100,100,https://www.pepsodent.com/products/,2026-07-17,Verified,High
-HIM001,Complete Care Toothpaste,B_de8ecfb7,CAT_1,Adult,100,100,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
-HIM002,Simply Peppermint,B_de8ecfb7,CAT_1,Adult,100,100,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
-HIM003,Simply Cinnamon,B_de8ecfb7,CAT_1,Adult,100,100,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
-HIM004,Whitening Toothpaste,B_de8ecfb7,CAT_1,Adult,100,100,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
-HIM005,Sensitive Care Toothpaste,B_de8ecfb7,CAT_1,Adult,100,100,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
-HIM006,Charcoal Toothpaste,B_de8ecfb7,CAT_1,Adult,100,100,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
-HIM007,Neem & Pomegranate,B_de8ecfb7,CAT_1,Adult,100,100,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
-HIM008,Kids Toothpaste,B_de8ecfb7,CAT_1,Kids,100,100,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
-DAB001,Dabur Red Paste,B_52ae28b2,CAT_1,Adult,100,100,https://www.dabur.com/red-toothpaste,2026-07-17,Verified,High
-DAB002,Dabur Herb'l,B_52ae28b2,CAT_1,Adult,100,100,https://www.dabur.com/red-toothpaste,2026-07-17,Verified,High
-DAB003,Dabur Meswak,B_52ae28b2,CAT_1,Adult,100,100,https://www.dabur.com/red-toothpaste,2026-07-17,Verified,High
-DAB004,Dabur Babool,B_52ae28b2,CAT_1,Adult,100,100,https://www.dabur.com/red-toothpaste,2026-07-17,Verified,High
-VIC001,Vajradanti Paste,B_a8be44f5,CAT_1,Adult,100,100,https://www.viccolabs.com/products/,2026-07-17,Verified,High
-VIC002,Vajradanti Gel,B_a8be44f5,CAT_1,Adult,100,100,https://www.viccolabs.com/products/,2026-07-17,Verified,High
-VIC003,Vajradanti Ayurvedic Sensitive,B_a8be44f5,CAT_1,Adult,100,100,https://www.viccolabs.com/products/,2026-07-17,Verified,High
-LIO001,Clinica Advantage Toothpaste,B_bc771bb8,CAT_1,Adult,100,100,https://clinica.lion.co.jp/products/,2026-07-17,Verified,High
-LIO002,Clinica Kids Toothpaste,B_bc771bb8,CAT_1,Kids,100,100,https://clinica.lion.co.jp/products/,2026-07-17,Verified,High
-LIO003,Clinica Enamel Pro Toothpaste,B_bc771bb8,CAT_1,Adult,100,100,https://clinica.lion.co.jp/products/,2026-07-17,Verified,High
-LIO004,Clinica Mouthwash Paste Mint,B_bc771bb8,CAT_1,Adult,100,100,https://clinica.lion.co.jp/products/,2026-07-17,Verified,High
-LIO005,Clinica Sensitive,B_bc771bb8,CAT_1,Adult,100,100,https://clinica.lion.co.jp/products/,2026-07-17,Verified,High
-ORA001,Premium Steam Fresh Mint,B_11eba336,CAT_1,Adult,100,100,https://jp.sunstar.com/oral2/products/,2026-07-17,Verified,High
-ORA002,Me Fluffy Rose Paste,B_11eba336,CAT_1,Adult,100,100,https://jp.sunstar.com/oral2/products/,2026-07-17,Verified,High
-ORA003,Stain Clear Paste,B_11eba336,CAT_1,Adult,100,100,https://jp.sunstar.com/oral2/products/,2026-07-17,Verified,High
-ORA004,Premium Chocolate Mint,B_11eba336,CAT_1,Adult,100,100,https://jp.sunstar.com/oral2/products/,2026-07-17,Verified,High
-ORA005,Baking Deep Whitening,B_11eba336,CAT_1,Adult,100,100,https://jp.sunstar.com/oral2/products/,2026-07-17,Verified,High
-GUM001,PerioBrite Toothpaste,B_b40d22c9,CAT_1,Adult,100,100,https://sunstargum.com/products/toothpastes/,2026-07-17,Verified,High
-GUM002,Original White Toothpaste,B_b40d22c9,CAT_1,Adult,100,100,https://sunstargum.com/products/toothpastes/,2026-07-17,Verified,High
-GUM003,Activated Charcoal Toothpaste,B_b40d22c9,CAT_1,Adult,100,100,https://sunstargum.com/products/toothpastes/,2026-07-17,Verified,High
-GUM004,Kids Toothpaste,B_b40d22c9,CAT_1,Kids,100,100,https://sunstargum.com/products/toothpastes/,2026-07-17,Verified,High
-GUM005,Sensitive Toothpaste,B_b40d22c9,CAT_1,Adult,100,100,https://sunstargum.com/products/toothpastes/,2026-07-17,Verified,High
-GUM006,Dry Mouth Toothpaste,B_b40d22c9,CAT_1,Adult,100,100,https://sunstargum.com/products/toothpastes/,2026-07-17,Verified,High
-APA001,Premio Toothpaste,B_ff858ded,CAT_1,Adult,100,100,https://www.apagard.com/products/,2026-07-17,Verified,High
-APA002,Royal Toothpaste,B_ff858ded,CAT_1,Adult,100,100,https://www.apagard.com/products/,2026-07-17,Verified,High
-APA003,M Plus Toothpaste,B_ff858ded,CAT_1,Adult,100,100,https://www.apagard.com/products/,2026-07-17,Verified,High
-APA004,Kids Toothpaste,B_ff858ded,CAT_1,Kids,100,100,https://www.apagard.com/products/,2026-07-17,Verified,High
-GCT001,Tooth Mousse,B_543a05c0,CAT_1,Adult,100,100,https://www.gc.dental/europe/en/products/gc-tooth-mousse,2026-07-17,Verified,High
-GCT002,MI Paste Plus,B_543a05c0,CAT_1,Adult,100,100,https://www.gc.dental/europe/en/products/gc-tooth-mousse,2026-07-17,Verified,High
-GCT003,Tooth Mousse Plus,B_543a05c0,CAT_1,Adult,100,100,https://www.gc.dental/europe/en/products/gc-tooth-mousse,2026-07-17,Verified,High
-ARM001,Advance White Extreme Whitening,B_d3208550,CAT_1,Adult,100,100,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
-ARM002,Complete Care Fresh Mint,B_d3208550,CAT_1,Adult,100,100,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
-ARM003,PeroxiCare Healthy Gums,B_d3208550,CAT_1,Adult,100,100,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
-ARM004,Truly Radiant Whitening Booster,B_d3208550,CAT_1,Adult,100,100,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
-ARM005,Dental Care Baking Soda,B_d3208550,CAT_1,Adult,100,100,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
-ARM006,Sensitive Teeth & Gum,B_d3208550,CAT_1,Adult,100,100,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
-ARM007,Baking Soda Toothpaste Fresh Mint,B_d3208550,CAT_1,Adult,100,100,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
-ARM008,Kids Spongebob Toothpaste,B_d3208550,CAT_1,Kids,100,100,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
-DRB001,All-One Toothpaste Peppermint,B_9c74a38e,CAT_1,Adult,100,100,https://www.drbronner.com/products/all-one-toothpaste/,2026-07-17,Verified,High
-DRB002,All-One Toothpaste Cinnamon,B_9c74a38e,CAT_1,Adult,100,100,https://www.drbronner.com/products/all-one-toothpaste/,2026-07-17,Verified,High
-DRB003,All-One Toothpaste Anise,B_9c74a38e,CAT_1,Adult,100,100,https://www.drbronner.com/products/all-one-toothpaste/,2026-07-17,Verified,High
-DAV001,Premium Natural Toothpaste Peppermint,B_159fd9b6,CAT_1,Adult,100,100,https://davids.com/collections/toothpaste,2026-07-17,Verified,High
-DAV002,Premium Natural Toothpaste Nourish,B_159fd9b6,CAT_1,Adult,100,100,https://davids.com/collections/toothpaste,2026-07-17,Verified,High
-DAV003,Sensitive + Repair,B_159fd9b6,CAT_1,Adult,100,100,https://davids.com/collections/toothpaste,2026-07-17,Verified,High
-DAV004,Whitening Peppermint,B_159fd9b6,CAT_1,Adult,100,100,https://davids.com/collections/toothpaste,2026-07-17,Verified,High
-BOK001,Ela Mint Fluoride-Free Nano-Hydroxyapatite,B_2e94c7df,CAT_1,Adult,100,100,https://boka.com/collections/toothpaste,2026-07-17,Verified,High
-BOK002,Classic Mint Nano-Hydroxyapatite,B_2e94c7df,CAT_1,Adult,100,100,https://boka.com/collections/toothpaste,2026-07-17,Verified,High
-BOK003,Kids Ela Mint Fluoride-Free,B_2e94c7df,CAT_1,Kids,100,100,https://boka.com/collections/toothpaste,2026-07-17,Verified,High
-BOK004,Whitening Charcoal Nano-Hydroxyapatite,B_2e94c7df,CAT_1,Adult,100,100,https://boka.com/collections/toothpaste,2026-07-17,Verified,High
+COL001,Total Clean Mint,B_51355bb6,CAT_1,Adult,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+COL002,Total Active Prevention Whitening Gel,B_51355bb6,CAT_1,Adult,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+COL003,Total Active Prevention Sensitivity Mineral Shield,B_51355bb6,CAT_1,Adult,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+COL004,Total Plaque Pro Release Whitening Gel,B_51355bb6,CAT_1,Adult,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+COL005,Optic White Advanced,B_51355bb6,CAT_1,Adult,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+COL006,Optic White Renewal,B_51355bb6,CAT_1,Adult,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+COL007,Max Fresh Cool Mint,B_51355bb6,CAT_1,Adult,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+COL008,Cavity Protection Great Regular Flavor,B_51355bb6,CAT_1,Adult,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+COL009,Sensitive Enamel Health,B_51355bb6,CAT_1,Adult,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+COL010,Baking Soda and Peroxide Whitening,B_51355bb6,CAT_1,Adult,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+COL011,Kids Cavity Protection Strawberry Burst,B_51355bb6,CAT_1,Kids,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+COL012,Kids Unicorn Academy,B_51355bb6,CAT_1,Kids,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+COL013,Revitalizing White Activated Charcoal,B_51355bb6,CAT_1,Adult,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+COL014,Total Whitening,B_51355bb6,CAT_1,Adult,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+COL015,Zero Fluoride-Free,B_51355bb6,CAT_1,Adult,100,100.0,https://www.colgate.com/en-us/products/toothpaste,2026-07-17,Verified,High
+CRE001,Pro-Health Clean Mint,B_fab5ad8b,CAT_1,Adult,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+CRE002,Pro-Health + Scope,B_fab5ad8b,CAT_1,Adult,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+CRE003,3D White Brilliance,B_fab5ad8b,CAT_1,Adult,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+CRE004,3D White Whitening Therapy,B_fab5ad8b,CAT_1,Adult,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+CRE005,Pro-Health Gum Detoxify,B_fab5ad8b,CAT_1,Adult,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+CRE006,Pro-Health Gum & Sensitivity,B_fab5ad8b,CAT_1,Adult,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+CRE007,Cavity Protection Regular,B_fab5ad8b,CAT_1,Adult,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+CRE008,Complete Whitening + Scope,B_fab5ad8b,CAT_1,Adult,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+CRE009,Baking Soda & Peroxide Whitening,B_fab5ad8b,CAT_1,Adult,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+CRE010,Kids Sparkle Cavity Protection,B_fab5ad8b,CAT_1,Kids,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+CRE011,Kids Sugar & Bacteria Shield,B_fab5ad8b,CAT_1,Kids,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+CRE012,Kids Color Changing,B_fab5ad8b,CAT_1,Kids,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+CRE013,Charcoal,B_fab5ad8b,CAT_1,Adult,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+CRE014,Scope Active Fresh Whitening,B_fab5ad8b,CAT_1,Adult,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+CRE015,Pro-Health Advanced,B_fab5ad8b,CAT_1,Adult,100,100.0,https://crest.com/en-us/oral-care-products/toothpaste,2026-07-17,Verified,High
+ORB001,3D White Luxe,B_ab04317f,CAT_1,Adult,100,100.0,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
+ORB002,Pro-Expert Multi-Protection,B_ab04317f,CAT_1,Adult,100,100.0,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
+ORB003,Pro-Expert Sensitive,B_ab04317f,CAT_1,Adult,100,100.0,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
+ORB004,Gum & Enamel Repair,B_ab04317f,CAT_1,Adult,100,100.0,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
+ORB005,Cavity Defense,B_ab04317f,CAT_1,Adult,100,100.0,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
+ORB006,3D White Detoxify,B_ab04317f,CAT_1,Adult,100,100.0,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
+ORB007,Pro-Expert Whitening,B_ab04317f,CAT_1,Adult,100,100.0,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
+ORB008,Kids Toothpaste Disney,B_ab04317f,CAT_1,Kids,100,100.0,https://oralb.com/en-us/products/toothpaste,2026-07-17,Verified,High
+SEN001,Repair & Protect,B_e64e8410,CAT_1,Adult,100,100.0,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
+SEN002,Repair & Protect Whitening,B_e64e8410,CAT_1,Adult,100,100.0,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
+SEN003,Pronamel Daily Protection,B_e64e8410,CAT_1,Adult,100,100.0,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
+SEN004,Pronamel Gentle Whitening,B_e64e8410,CAT_1,Adult,100,100.0,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
+SEN005,Pronamel Intensive Enamel Repair,B_e64e8410,CAT_1,Adult,100,100.0,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
+SEN006,Rapid Relief,B_e64e8410,CAT_1,Adult,100,100.0,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
+SEN007,Rapid Relief Extra Fresh,B_e64e8410,CAT_1,Adult,100,100.0,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
+SEN008,Complete Protection,B_e64e8410,CAT_1,Adult,100,100.0,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
+SEN009,Extra Whitening,B_e64e8410,CAT_1,Adult,100,100.0,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
+SEN010,Clinical White,B_e64e8410,CAT_1,Adult,100,100.0,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
+SEN011,Sensitivity & Gum,B_e64e8410,CAT_1,Adult,100,100.0,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
+SEN012,Fresh Mint (Original),B_e64e8410,CAT_1,Adult,100,100.0,https://www.sensodyne.com/en-us/products/,2026-07-17,Verified,High
+PAR001,Complete Protection,B_142be5e1,CAT_1,Adult,100,100.0,https://www.parodontax.com/en-us/products/,2026-07-17,Verified,High
+PAR002,Extra Fresh,B_142be5e1,CAT_1,Adult,100,100.0,https://www.parodontax.com/en-us/products/,2026-07-17,Verified,High
+PAR003,Whitening,B_142be5e1,CAT_1,Adult,100,100.0,https://www.parodontax.com/en-us/products/,2026-07-17,Verified,High
+PAR004,Daily Gum Care,B_142be5e1,CAT_1,Adult,100,100.0,https://www.parodontax.com/en-us/products/,2026-07-17,Verified,High
+PAR005,Active Gum Repair,B_142be5e1,CAT_1,Adult,100,100.0,https://www.parodontax.com/en-us/products/,2026-07-17,Verified,High
+PAR006,Gum Health & Sensitivity,B_142be5e1,CAT_1,Adult,100,100.0,https://www.parodontax.com/en-us/products/,2026-07-17,Verified,High
+AQU001,Triple Protection,B_8ce5cc76,CAT_1,Adult,100,100.0,https://www.aquafresh.com/en-us/our-products/,2026-07-17,Verified,High
+AQU002,Extreme Clean Whitening,B_8ce5cc76,CAT_1,Adult,100,100.0,https://www.aquafresh.com/en-us/our-products/,2026-07-17,Verified,High
+AQU003,Sensitive Maximum Strength,B_8ce5cc76,CAT_1,Adult,100,100.0,https://www.aquafresh.com/en-us/our-products/,2026-07-17,Verified,High
+AQU004,Multi-Action Whitening,B_8ce5cc76,CAT_1,Adult,100,100.0,https://www.aquafresh.com/en-us/our-products/,2026-07-17,Verified,High
+AQU005,Kids Mild Mint,B_8ce5cc76,CAT_1,Kids,100,100.0,https://www.aquafresh.com/en-us/our-products/,2026-07-17,Verified,High
+AQU006,Big Teeth Little Teeth,B_8ce5cc76,CAT_1,Kids,100,100.0,https://www.aquafresh.com/en-us/our-products/,2026-07-17,Verified,High
+AQU007,Advance Gum Protection,B_8ce5cc76,CAT_1,Adult,100,100.0,https://www.aquafresh.com/en-us/our-products/,2026-07-17,Verified,High
+BIO001,Dry Mouth Toothpaste Original,B_53cd7f87,CAT_1,Adult,100,100.0,https://www.biotene.com/products/,2026-07-17,Verified,High
+BIO002,Dry Mouth Toothpaste Fresh Mint,B_53cd7f87,CAT_1,Adult,100,100.0,https://www.biotene.com/products/,2026-07-17,Verified,High
+BIO003,Gentle Mint Fluoride Toothpaste,B_53cd7f87,CAT_1,Adult,100,100.0,https://www.biotene.com/products/,2026-07-17,Verified,High
+BIO004,Supreme Gum Health Toothpaste,B_53cd7f87,CAT_1,Adult,100,100.0,https://www.biotene.com/products/,2026-07-17,Verified,High
+ELM001,Caries Protection,B_b68660ed,CAT_1,Adult,100,100.0,https://www.elmex.com/en/products/,2026-07-17,Verified,High
+ELM002,Sensitive Professional,B_b68660ed,CAT_1,Adult,100,100.0,https://www.elmex.com/en/products/,2026-07-17,Verified,High
+ELM003,Gentle Whitening,B_b68660ed,CAT_1,Adult,100,100.0,https://www.elmex.com/en/products/,2026-07-17,Verified,High
+ELM004,Junior (6-12 years),B_b68660ed,CAT_1,Kids,100,100.0,https://www.elmex.com/en/products/,2026-07-17,Verified,High
+ELM005,Erosion Protection,B_b68660ed,CAT_1,Adult,100,100.0,https://www.elmex.com/en/products/,2026-07-17,Verified,High
+ELM006,Anti-Bacterial Gum Protection,B_b68660ed,CAT_1,Adult,100,100.0,https://www.elmex.com/en/products/,2026-07-17,Verified,High
+MER001,Gum Protection Toothpaste,B_adba8667,CAT_1,Adult,100,100.0,https://www.meridol.com/en/products/,2026-07-17,Verified,High
+MER002,Halitosis Toothpaste,B_adba8667,CAT_1,Adult,100,100.0,https://www.meridol.com/en/products/,2026-07-17,Verified,High
+MER003,Sensitive Teeth Toothpaste,B_adba8667,CAT_1,Adult,100,100.0,https://www.meridol.com/en/products/,2026-07-17,Verified,High
+MER004,Gum Protection Whitening,B_adba8667,CAT_1,Adult,100,100.0,https://www.meridol.com/en/products/,2026-07-17,Verified,High
+TOM001,Whole Care Anticavity,B_65dffb3d,CAT_1,Adult,100,100.0,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
+TOM002,Simply White Clean Mint,B_65dffb3d,CAT_1,Adult,100,100.0,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
+TOM003,Rapid Relief Sensitive,B_65dffb3d,CAT_1,Adult,100,100.0,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
+TOM004,Wicked Fresh! Cool Peppermint,B_65dffb3d,CAT_1,Adult,100,100.0,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
+TOM005,Antiplaque & Whitening,B_65dffb3d,CAT_1,Adult,100,100.0,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
+TOM006,Fluoride-Free Anticavity,B_65dffb3d,CAT_1,Adult,100,100.0,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
+TOM007,Kids Natural Silly Strawberry,B_65dffb3d,CAT_1,Kids,100,100.0,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
+TOM008,Clean & Gentle Whitening,B_65dffb3d,CAT_1,Adult,100,100.0,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
+TOM009,Coconut Oil Cavity Protection,B_65dffb3d,CAT_1,Adult,100,100.0,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
+TOM010,Charcoal Whitening,B_65dffb3d,CAT_1,Adult,100,100.0,https://www.tomsofmaine.com/collections/toothpaste,2026-07-17,Verified,High
+HEL001,Antiplaque & Whitening Fluoride Toothpaste,B_a99e0a45,CAT_1,Adult,100,100.0,https://www.hello-products.com/collections/toothpaste,2026-07-17,Verified,High
+HEL002,Naturally Whitening Fluoride-Free Charcoal,B_a99e0a45,CAT_1,Adult,100,100.0,https://www.hello-products.com/collections/toothpaste,2026-07-17,Verified,High
+HEL003,Kids Fluoride-Free Strawberry,B_a99e0a45,CAT_1,Kids,100,100.0,https://www.hello-products.com/collections/toothpaste,2026-07-17,Verified,High
+HEL004,Sensitivity Relief Fluoride Toothpaste,B_a99e0a45,CAT_1,Adult,100,100.0,https://www.hello-products.com/collections/toothpaste,2026-07-17,Verified,High
+HEL005,Antiplaque Whitening Fluoride-Free Coconut Oil,B_a99e0a45,CAT_1,Adult,100,100.0,https://www.hello-products.com/collections/toothpaste,2026-07-17,Verified,High
+HEL006,Farm to Tube Vegan Fluoride Toothpaste,B_a99e0a45,CAT_1,Adult,100,100.0,https://www.hello-products.com/collections/toothpaste,2026-07-17,Verified,High
+HEL007,Whitening Fluoride-Free Charcoal Kids,B_a99e0a45,CAT_1,Kids,100,100.0,https://www.hello-products.com/collections/toothpaste,2026-07-17,Verified,High
+MAR001,Classic Strong Mint,B_e947028c,CAT_1,Adult,100,100.0,https://www.marvis.it/en/products/,2026-07-17,Verified,High
+MAR002,Whitening Mint,B_e947028c,CAT_1,Adult,100,100.0,https://www.marvis.it/en/products/,2026-07-17,Verified,High
+MAR003,Aquatic Mint,B_e947028c,CAT_1,Adult,100,100.0,https://www.marvis.it/en/products/,2026-07-17,Verified,High
+MAR004,Cinnamon Mint,B_e947028c,CAT_1,Adult,100,100.0,https://www.marvis.it/en/products/,2026-07-17,Verified,High
+MAR005,Jasmin Mint,B_e947028c,CAT_1,Adult,100,100.0,https://www.marvis.it/en/products/,2026-07-17,Verified,High
+MAR006,Amarelli Licorice Mint,B_e947028c,CAT_1,Adult,100,100.0,https://www.marvis.it/en/products/,2026-07-17,Verified,High
+MAR007,Ginger Mint,B_e947028c,CAT_1,Adult,100,100.0,https://www.marvis.it/en/products/,2026-07-17,Verified,High
+MAR008,Sweet & Sour Rhubarb,B_e947028c,CAT_1,Adult,100,100.0,https://www.marvis.it/en/products/,2026-07-17,Verified,High
+CUR001,Black Is White Whitening,B_df88995f,CAT_1,Adult,100,100.0,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
+CUR002,Enzycal 950,B_df88995f,CAT_1,Adult,100,100.0,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
+CUR003,Enzycal 1450,B_df88995f,CAT_1,Adult,100,100.0,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
+CUR004,Be You Toothpaste,B_df88995f,CAT_1,Adult,100,100.0,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
+CUR005,Kids Toothpaste 0-4 / 4-12,B_df88995f,CAT_1,Kids,100,100.0,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
+CUR006,Perio Plus Toothpaste,B_df88995f,CAT_1,Adult,100,100.0,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
+CUR007,Whitening Toothpaste,B_df88995f,CAT_1,Adult,100,100.0,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
+CUR008,Superwhite Toothpaste,B_df88995f,CAT_1,Adult,100,100.0,https://www.curaprox.com/en/products/toothpastes,2026-07-17,Verified,High
+ZEN001,Advanced Toothpaste,B_bfb19b76,CAT_1,Adult,100,100.0,https://www.zendium.co.uk/products/,2026-07-17,Verified,High
+ZEN002,Complete Protection,B_bfb19b76,CAT_1,Adult,100,100.0,https://www.zendium.co.uk/products/,2026-07-17,Verified,High
+ZEN003,White Toothpaste,B_bfb19b76,CAT_1,Adult,100,100.0,https://www.zendium.co.uk/products/,2026-07-17,Verified,High
+ZEN004,Sensitive Toothpaste,B_bfb19b76,CAT_1,Adult,100,100.0,https://www.zendium.co.uk/products/,2026-07-17,Verified,High
+ZEN005,Kids Toothpaste,B_bfb19b76,CAT_1,Kids,100,100.0,https://www.zendium.co.uk/products/,2026-07-17,Verified,High
+SIG001,White Now,B_085fea7a,CAT_1,Adult,100,100.0,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
+SIG002,Integral 8,B_085fea7a,CAT_1,Adult,100,100.0,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
+SIG003,Herbal,B_085fea7a,CAT_1,Adult,100,100.0,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
+SIG004,Sensitive Expert,B_085fea7a,CAT_1,Adult,100,100.0,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
+SIG005,Kids Toothpaste,B_085fea7a,CAT_1,Kids,100,100.0,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
+SIG006,Cavity Fighter,B_085fea7a,CAT_1,Adult,100,100.0,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
+SIG007,Anti-Plaque,B_085fea7a,CAT_1,Adult,100,100.0,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
+SIG008,White System,B_085fea7a,CAT_1,Adult,100,100.0,https://www.signal.co.uk/our-products/,2026-07-17,Verified,High
+CLO001,Red Hot Gel,B_3ec3139a,CAT_1,Adult,100,100.0,https://www.closeup.com/products/,2026-07-17,Verified,High
+CLO002,Ever Fresh Gel,B_3ec3139a,CAT_1,Adult,100,100.0,https://www.closeup.com/products/,2026-07-17,Verified,High
+CLO003,Menthol Fresh Gel,B_3ec3139a,CAT_1,Adult,100,100.0,https://www.closeup.com/products/,2026-07-17,Verified,High
+CLO004,Deep Action Gel,B_3ec3139a,CAT_1,Adult,100,100.0,https://www.closeup.com/products/,2026-07-17,Verified,High
+CLO005,Milk Calcium,B_3ec3139a,CAT_1,Adult,100,100.0,https://www.closeup.com/products/,2026-07-17,Verified,High
+CLO006,Diamond Attraction Whitening,B_3ec3139a,CAT_1,Adult,100,100.0,https://www.closeup.com/products/,2026-07-17,Verified,High
+PEP001,Center Fresh Gel,B_357f213e,CAT_1,Adult,100,100.0,https://www.pepsodent.com/products/,2026-07-17,Verified,High
+PEP002,Germicheck,B_357f213e,CAT_1,Adult,100,100.0,https://www.pepsodent.com/products/,2026-07-17,Verified,High
+PEP003,Complete Care 12,B_357f213e,CAT_1,Adult,100,100.0,https://www.pepsodent.com/products/,2026-07-17,Verified,High
+PEP004,Whitening,B_357f213e,CAT_1,Adult,100,100.0,https://www.pepsodent.com/products/,2026-07-17,Verified,High
+PEP005,Expert Protection Total Care,B_357f213e,CAT_1,Adult,100,100.0,https://www.pepsodent.com/products/,2026-07-17,Verified,High
+PEP006,Herbal,B_357f213e,CAT_1,Adult,100,100.0,https://www.pepsodent.com/products/,2026-07-17,Verified,High
+PEP007,Ayurvedic Extracts,B_357f213e,CAT_1,Adult,100,100.0,https://www.pepsodent.com/products/,2026-07-17,Verified,High
+PEP008,Sensitive Expert,B_357f213e,CAT_1,Adult,100,100.0,https://www.pepsodent.com/products/,2026-07-17,Verified,High
+HIM001,Complete Care Toothpaste,B_de8ecfb7,CAT_1,Adult,100,100.0,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
+HIM002,Simply Peppermint,B_de8ecfb7,CAT_1,Adult,100,100.0,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
+HIM003,Simply Cinnamon,B_de8ecfb7,CAT_1,Adult,100,100.0,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
+HIM004,Whitening Toothpaste,B_de8ecfb7,CAT_1,Adult,100,100.0,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
+HIM005,Sensitive Care Toothpaste,B_de8ecfb7,CAT_1,Adult,100,100.0,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
+HIM006,Charcoal Toothpaste,B_de8ecfb7,CAT_1,Adult,100,100.0,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
+HIM007,Neem & Pomegranate,B_de8ecfb7,CAT_1,Adult,100,100.0,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
+HIM008,Kids Toothpaste,B_de8ecfb7,CAT_1,Kids,100,100.0,https://himalayawellness.com/collections/toothpaste,2026-07-17,Verified,High
+DAB001,Dabur Red Paste,B_52ae28b2,CAT_1,Adult,100,100.0,https://www.dabur.com/red-toothpaste,2026-07-17,Verified,High
+DAB002,Dabur Herb'l,B_52ae28b2,CAT_1,Adult,100,100.0,https://www.dabur.com/red-toothpaste,2026-07-17,Verified,High
+DAB003,Dabur Meswak,B_52ae28b2,CAT_1,Adult,100,100.0,https://www.dabur.com/red-toothpaste,2026-07-17,Verified,High
+DAB004,Dabur Babool,B_52ae28b2,CAT_1,Adult,100,100.0,https://www.dabur.com/red-toothpaste,2026-07-17,Verified,High
+VIC001,Vajradanti Paste,B_a8be44f5,CAT_1,Adult,100,100.0,https://www.viccolabs.com/products/,2026-07-17,Verified,High
+VIC002,Vajradanti Gel,B_a8be44f5,CAT_1,Adult,100,100.0,https://www.viccolabs.com/products/,2026-07-17,Verified,High
+VIC003,Vajradanti Ayurvedic Sensitive,B_a8be44f5,CAT_1,Adult,100,100.0,https://www.viccolabs.com/products/,2026-07-17,Verified,High
+LIO001,Clinica Advantage Toothpaste,B_bc771bb8,CAT_1,Adult,100,100.0,https://clinica.lion.co.jp/products/,2026-07-17,Verified,High
+LIO002,Clinica Kids Toothpaste,B_bc771bb8,CAT_1,Kids,100,100.0,https://clinica.lion.co.jp/products/,2026-07-17,Verified,High
+LIO003,Clinica Enamel Pro Toothpaste,B_bc771bb8,CAT_1,Adult,100,100.0,https://clinica.lion.co.jp/products/,2026-07-17,Verified,High
+LIO004,Clinica Mouthwash Paste Mint,B_bc771bb8,CAT_1,Adult,100,100.0,https://clinica.lion.co.jp/products/,2026-07-17,Verified,High
+LIO005,Clinica Sensitive,B_bc771bb8,CAT_1,Adult,100,100.0,https://clinica.lion.co.jp/products/,2026-07-17,Verified,High
+ORA001,Premium Steam Fresh Mint,B_11eba336,CAT_1,Adult,100,100.0,https://jp.sunstar.com/oral2/products/,2026-07-17,Verified,High
+ORA002,Me Fluffy Rose Paste,B_11eba336,CAT_1,Adult,100,100.0,https://jp.sunstar.com/oral2/products/,2026-07-17,Verified,High
+ORA003,Stain Clear Paste,B_11eba336,CAT_1,Adult,100,100.0,https://jp.sunstar.com/oral2/products/,2026-07-17,Verified,High
+ORA004,Premium Chocolate Mint,B_11eba336,CAT_1,Adult,100,100.0,https://jp.sunstar.com/oral2/products/,2026-07-17,Verified,High
+ORA005,Baking Deep Whitening,B_11eba336,CAT_1,Adult,100,100.0,https://jp.sunstar.com/oral2/products/,2026-07-17,Verified,High
+GUM001,PerioBrite Toothpaste,B_b40d22c9,CAT_1,Adult,100,100.0,https://sunstargum.com/products/toothpastes/,2026-07-17,Verified,High
+GUM002,Original White Toothpaste,B_b40d22c9,CAT_1,Adult,100,100.0,https://sunstargum.com/products/toothpastes/,2026-07-17,Verified,High
+GUM003,Activated Charcoal Toothpaste,B_b40d22c9,CAT_1,Adult,100,100.0,https://sunstargum.com/products/toothpastes/,2026-07-17,Verified,High
+GUM004,Kids Toothpaste,B_b40d22c9,CAT_1,Kids,100,100.0,https://sunstargum.com/products/toothpastes/,2026-07-17,Verified,High
+GUM005,Sensitive Toothpaste,B_b40d22c9,CAT_1,Adult,100,100.0,https://sunstargum.com/products/toothpastes/,2026-07-17,Verified,High
+GUM006,Dry Mouth Toothpaste,B_b40d22c9,CAT_1,Adult,100,100.0,https://sunstargum.com/products/toothpastes/,2026-07-17,Verified,High
+APA001,Premio Toothpaste,B_ff858ded,CAT_1,Adult,100,100.0,https://www.apagard.com/products/,2026-07-17,Verified,High
+APA002,Royal Toothpaste,B_ff858ded,CAT_1,Adult,100,100.0,https://www.apagard.com/products/,2026-07-17,Verified,High
+APA003,M Plus Toothpaste,B_ff858ded,CAT_1,Adult,100,100.0,https://www.apagard.com/products/,2026-07-17,Verified,High
+APA004,Kids Toothpaste,B_ff858ded,CAT_1,Kids,100,100.0,https://www.apagard.com/products/,2026-07-17,Verified,High
+GCT001,Tooth Mousse,B_543a05c0,CAT_1,Adult,100,100.0,https://www.gc.dental/europe/en/products/gc-tooth-mousse,2026-07-17,Verified,High
+GCT002,MI Paste Plus,B_543a05c0,CAT_1,Adult,100,100.0,https://www.gc.dental/europe/en/products/gc-tooth-mousse,2026-07-17,Verified,High
+GCT003,Tooth Mousse Plus,B_543a05c0,CAT_1,Adult,100,100.0,https://www.gc.dental/europe/en/products/gc-tooth-mousse,2026-07-17,Verified,High
+ARM001,Advance White Extreme Whitening,B_d3208550,CAT_1,Adult,100,100.0,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
+ARM002,Complete Care Fresh Mint,B_d3208550,CAT_1,Adult,100,100.0,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
+ARM003,PeroxiCare Healthy Gums,B_d3208550,CAT_1,Adult,100,100.0,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
+ARM004,Truly Radiant Whitening Booster,B_d3208550,CAT_1,Adult,100,100.0,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
+ARM005,Dental Care Baking Soda,B_d3208550,CAT_1,Adult,100,100.0,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
+ARM006,Sensitive Teeth & Gum,B_d3208550,CAT_1,Adult,100,100.0,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
+ARM007,Baking Soda Toothpaste Fresh Mint,B_d3208550,CAT_1,Adult,100,100.0,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
+ARM008,Kids Spongebob Toothpaste,B_d3208550,CAT_1,Kids,100,100.0,https://www.armandhammer.com/products/toothpaste,2026-07-17,Verified,High
+DRB001,All-One Toothpaste Peppermint,B_9c74a38e,CAT_1,Adult,100,100.0,https://www.drbronner.com/products/all-one-toothpaste/,2026-07-17,Verified,High
+DRB002,All-One Toothpaste Cinnamon,B_9c74a38e,CAT_1,Adult,100,100.0,https://www.drbronner.com/products/all-one-toothpaste/,2026-07-17,Verified,High
+DRB003,All-One Toothpaste Anise,B_9c74a38e,CAT_1,Adult,100,100.0,https://www.drbronner.com/products/all-one-toothpaste/,2026-07-17,Verified,High
+DAV001,Premium Natural Toothpaste Peppermint,B_159fd9b6,CAT_1,Adult,100,100.0,https://davids.com/collections/toothpaste,2026-07-17,Verified,High
+DAV002,Premium Natural Toothpaste Nourish,B_159fd9b6,CAT_1,Adult,100,100.0,https://davids.com/collections/toothpaste,2026-07-17,Verified,High
+DAV003,Sensitive + Repair,B_159fd9b6,CAT_1,Adult,100,100.0,https://davids.com/collections/toothpaste,2026-07-17,Verified,High
+DAV004,Whitening Peppermint,B_159fd9b6,CAT_1,Adult,100,100.0,https://davids.com/collections/toothpaste,2026-07-17,Verified,High
+BOK001,Ela Mint Fluoride-Free Nano-Hydroxyapatite,B_2e94c7df,CAT_1,Adult,100,100.0,https://boka.com/collections/toothpaste,2026-07-17,Verified,High
+BOK002,Classic Mint Nano-Hydroxyapatite,B_2e94c7df,CAT_1,Adult,100,100.0,https://boka.com/collections/toothpaste,2026-07-17,Verified,High
+BOK003,Kids Ela Mint Fluoride-Free,B_2e94c7df,CAT_1,Kids,100,100.0,https://boka.com/collections/toothpaste,2026-07-17,Verified,High
+BOK004,Whitening Charcoal Nano-Hydroxyapatite,B_2e94c7df,CAT_1,Adult,100,100.0,https://boka.com/collections/toothpaste,2026-07-17,Verified,High
+MWCOL001,Total Advanced Pro-Shield Mouthwash,B_51355bb6,CAT_2,Adult,100,,,,,
+MWCOL002,Total Mouthwash Peppermint,B_51355bb6,CAT_2,Adult,100,,,,,
+MWCOL003,Optic White Whitening Mouthwash,B_51355bb6,CAT_2,Adult,100,,,,,
+MWCOL004,Peroxyl Antiseptic Rinse,B_51355bb6,CAT_2,Adult,100,,,,,
+MWCOL005,Kids Mild Mint Mouthwash (6+),B_51355bb6,CAT_2,Kids,100,,,,,
+MWCRE001,Pro-Health Multi-Protection Rinse,B_fab5ad8b,CAT_2,Adult,100,,,,,
+MWCRE002,Pro-Health Densify Rinse,B_fab5ad8b,CAT_2,Adult,100,,,,,
+MWCRE003,Scope Classic Mouthwash,B_fab5ad8b,CAT_2,Adult,100,,,,,
+MWCRE004,Scope Outlast Mouthwash,B_fab5ad8b,CAT_2,Adult,100,,,,,
+MWCRE005,3D White Brilliance Rinse,B_fab5ad8b,CAT_2,Adult,100,,,,,
+MWORB001,Pro-Expert Multi-Protection Rinse,B_ab04317f,CAT_2,Adult,100,,,,,
+MWORB002,Gum & Enamel Repair Rinse,B_ab04317f,CAT_2,Adult,100,,,,,
+MWSEN001,Pronamel Daily Protection Mouthwash,B_e64e8410,CAT_2,Adult,100,,,,,
+MWSEN002,Pronamel Intensive Enamel Repair Mouthwash,B_e64e8410,CAT_2,Adult,100,,,,,
+MWSEN003,Rapid Relief Mouthwash,B_e64e8410,CAT_2,Adult,100,,,,,
+MWPAR001,Daily Gum Care Mouthwash,B_142be5e1,CAT_2,Adult,100,,,,,
+MWPAR002,Extra Fresh Mouthwash,B_142be5e1,CAT_2,Adult,100,,,,,
+MWBIO001,Dry Mouth Oral Rinse Original,B_53cd7f87,CAT_2,Adult,100,,,,,
+MWBIO002,Fresh Mint Oral Rinse (Alcohol-Free),B_53cd7f87,CAT_2,Adult,100,,,,,
+MWGUM001,Paroex Chlorhexidine Gluconate Rinse (Rx),B_b40d22c9,CAT_2,Adult,100,,,,,
+MWGUM002,HealthyGums Mouthrinse Alcohol-Free,B_b40d22c9,CAT_2,Adult,100,,,,,
+MWHIM001,Herbal Mouthwash,B_de8ecfb7,CAT_2,Adult,100,,,,,
+MWCUR001,Perio Plus Support Mouthwash (CHX 0.09%),B_df88995f,CAT_2,Adult,100,,,,,
+MWLIS001,Cool Mint Antiseptic Mouthwash,B_581b922e,CAT_2,Adult,100,,,,,
+MWLIS002,Total Care Anticavity Mouthwash,B_581b922e,CAT_2,Adult,100,,,,,
+MWLIS003,Total Care Zero Alcohol-Free,B_581b922e,CAT_2,Adult,100,,,,,
+MWLIS004,Clinical Solutions Sensitivity Mouthwash,B_581b922e,CAT_2,Adult,100,,,,,
+MWLIS005,Gum Therapy Mouthwash,B_581b922e,CAT_2,Adult,100,,,,,
+MWLIS006,Naturals Antiseptic Mouthwash,B_581b922e,CAT_2,Adult,100,,,,,
+MWACT001,Anticavity Fluoride Rinse,B_6d37398f,CAT_2,Adult,100,,,,,
+MWACT002,Total Care Anticavity Mouthwash,B_6d37398f,CAT_2,Adult,100,,,,,
+MWACT003,Whitening + Anticavity Fluoride Mouthwash,B_6d37398f,CAT_2,Adult,100,,,,,
+MWTHB001,Fresh Breath Oral Rinse,B_dbb12c68,CAT_2,Adult,100,,,,,
+MWTHB002,Dry Mouth Oral Rinse,B_dbb12c68,CAT_2,Adult,100,,,,,
+FLORB001,Glide Original Floss,B_ab04317f,CAT_3,Adult,100,,,,,
+FLORB002,Glide Deep Clean Floss,B_ab04317f,CAT_3,Adult,100,,,,,
+FLORB003,Glide Comfort Plus Floss,B_ab04317f,CAT_3,Adult,100,,,,,
+FLORB004,Glide with Scope Flavor Floss,B_ab04317f,CAT_3,Adult,100,,,,,
+FLORB005,Glide Floss Picks,B_ab04317f,CAT_3,Adult,100,,,,,
+FLORB006,Super Floss (Braces/Bridges),B_ab04317f,CAT_3,Adult,100,,,,,
+FLORB007,Essential Waxed Floss,B_ab04317f,CAT_3,Adult,100,,,,,
+FLCOL001,Total Waxed Floss,B_51355bb6,CAT_3,Adult,100,,,,,
+FLCOL002,Dental Floss Picks,B_51355bb6,CAT_3,Adult,100,,,,,
+FLCOL003,360 Floss-Tip Picks,B_51355bb6,CAT_3,Adult,100,,,,,
+FLCOL004,Wave 3-in-1 Floss Picks,B_51355bb6,CAT_3,Adult,100,,,,,
+FLGUM001,Soft-Picks Advanced,B_b40d22c9,CAT_3,Adult,100,,,,,
+FLGUM002,Eez-Thru Waxed Floss,B_b40d22c9,CAT_3,Adult,100,,,,,
+FLGUM003,Expanding Floss,B_b40d22c9,CAT_3,Adult,100,,,,,
+FLTOM001,"Antiplaque Flat Floss, Naturally Waxed",B_65dffb3d,CAT_3,Adult,100,,,,,
+FLCOC001,Cocofloss Original Woven Floss,B_def061c6,CAT_3,Adult,100,,,,,
+FLCOC002,Cocofloss Kids Woven Floss,B_def061c6,CAT_3,Adult,100,,,,,
+FLREA001,Waxed Dental Floss,B_ae035611,CAT_3,Adult,100,,,,,
+FLREA002,Clean Burst Floss Picks,B_ae035611,CAT_3,Adult,100,,,,,
+FLDEN001,Comfort Clean Floss Picks,B_ecda8014,CAT_3,Adult,100,,,,,
+FLDEN002,Triple Clean Floss,B_ecda8014,CAT_3,Adult,100,,,,,
+ETORB001,iO Series 10,B_ab04317f,CAT_4,Adult,100,,,,,
+ETORB002,iO Series 9,B_ab04317f,CAT_4,Adult,100,,,,,
+ETORB003,iO Series 7,B_ab04317f,CAT_4,Adult,100,,,,,
+ETORB004,iO Series 4,B_ab04317f,CAT_4,Adult,100,,,,,
+ETORB005,Pro 1000 CrossAction,B_ab04317f,CAT_4,Adult,100,,,,,
+ETORB006,Pro 5000 SmartSeries,B_ab04317f,CAT_4,Adult,100,,,,,
+ETORB007,Genius X,B_ab04317f,CAT_4,Adult,100,,,,,
+ETORB008,Vitality FlossAction,B_ab04317f,CAT_4,Adult,100,,,,,
+ETCOL001,360 Sonic Power Toothbrush,B_51355bb6,CAT_4,Adult,100,,,,,
+ETCOL002,hum by Colgate Smart Toothbrush,B_51355bb6,CAT_4,Adult,100,,,,,
+ETCOL003,Optic White Sonic Toothbrush,B_51355bb6,CAT_4,Adult,100,,,,,
+ETCOL004,Total Battery Powered Toothbrush,B_51355bb6,CAT_4,Adult,100,,,,,
+ETCOL005,Kids Minecraft Battery Toothbrush,B_51355bb6,CAT_4,Adult,100,,,,,
+ETPHI001,DiamondClean Smart 9300,B_0427a00b,CAT_4,Adult,100,,,,,
+ETPHI002,Prestige 9900 with SenseIQ,B_0427a00b,CAT_4,Adult,100,,,,,
+ETPHI003,ProtectiveClean 6100,B_0427a00b,CAT_4,Adult,100,,,,,
+ETPHI004,ProtectiveClean 4100,B_0427a00b,CAT_4,Adult,100,,,,,
+ETPHI005,ExpertClean 7300,B_0427a00b,CAT_4,Adult,100,,,,,
+ETCUR001,Hydrosonic Pro,B_df88995f,CAT_4,Adult,100,,,,,
+ETCUR002,Hydrosonic Easy,B_df88995f,CAT_4,Adult,100,,,,,

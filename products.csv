@@ -193,3 +193,78 @@ BOK001,Ela Mint Fluoride-Free Nano-Hydroxyapatite,B_2e94c7df,CAT_1,Adult,100,100
 BOK002,Classic Mint Nano-Hydroxyapatite,B_2e94c7df,CAT_1,Adult,100,100,https://boka.com/collections/toothpaste,2026-07-17,Verified,High
 BOK003,Kids Ela Mint Fluoride-Free,B_2e94c7df,CAT_1,Kids,100,100,https://boka.com/collections/toothpaste,2026-07-17,Verified,High
 BOK004,Whitening Charcoal Nano-Hydroxyapatite,B_2e94c7df,CAT_1,Adult,100,100,https://boka.com/collections/toothpaste,2026-07-17,Verified,High
+MWCOL001,Total Advanced Pro-Shield Mouthwash,B_51355bb6,CAT_2,Adult,100
+MWCOL002,Total Mouthwash Peppermint,B_51355bb6,CAT_2,Adult,100
+MWCOL003,Optic White Whitening Mouthwash,B_51355bb6,CAT_2,Adult,100
+MWCOL004,Peroxyl Antiseptic Rinse,B_51355bb6,CAT_2,Adult,100
+MWCOL005,Kids Mild Mint Mouthwash (6+),B_51355bb6,CAT_2,Kids,100
+MWCRE001,Pro-Health Multi-Protection Rinse,B_fab5ad8b,CAT_2,Adult,100
+MWCRE002,Pro-Health Densify Rinse,B_fab5ad8b,CAT_2,Adult,100
+MWCRE003,Scope Classic Mouthwash,B_fab5ad8b,CAT_2,Adult,100
+MWCRE004,Scope Outlast Mouthwash,B_fab5ad8b,CAT_2,Adult,100
+MWCRE005,3D White Brilliance Rinse,B_fab5ad8b,CAT_2,Adult,100
+MWORB001,Pro-Expert Multi-Protection Rinse,B_ab04317f,CAT_2,Adult,100
+MWORB002,Gum & Enamel Repair Rinse,B_ab04317f,CAT_2,Adult,100
+MWSEN001,Pronamel Daily Protection Mouthwash,B_e64e8410,CAT_2,Adult,100
+MWSEN002,Pronamel Intensive Enamel Repair Mouthwash,B_e64e8410,CAT_2,Adult,100
+MWSEN003,Rapid Relief Mouthwash,B_e64e8410,CAT_2,Adult,100
+MWPAR001,Daily Gum Care Mouthwash,B_142be5e1,CAT_2,Adult,100
+MWPAR002,Extra Fresh Mouthwash,B_142be5e1,CAT_2,Adult,100
+MWBIO001,Dry Mouth Oral Rinse Original,B_53cd7f87,CAT_2,Adult,100
+MWBIO002,Fresh Mint Oral Rinse (Alcohol-Free),B_53cd7f87,CAT_2,Adult,100
+MWGUM001,Paroex Chlorhexidine Gluconate Rinse (Rx),B_b40d22c9,CAT_2,Adult,100
+MWGUM002,HealthyGums Mouthrinse Alcohol-Free,B_b40d22c9,CAT_2,Adult,100
+MWHIM001,Herbal Mouthwash,B_de8ecfb7,CAT_2,Adult,100
+MWCUR001,Perio Plus Support Mouthwash (CHX 0.09%),B_df88995f,CAT_2,Adult,100
+MWLIS001,Cool Mint Antiseptic Mouthwash,B_581b922e,CAT_2,Adult,100
+MWLIS002,Total Care Anticavity Mouthwash,B_581b922e,CAT_2,Adult,100
+MWLIS003,Total Care Zero Alcohol-Free,B_581b922e,CAT_2,Adult,100
+MWLIS004,Clinical Solutions Sensitivity Mouthwash,B_581b922e,CAT_2,Adult,100
+MWLIS005,Gum Therapy Mouthwash,B_581b922e,CAT_2,Adult,100
+MWLIS006,Naturals Antiseptic Mouthwash,B_581b922e,CAT_2,Adult,100
+MWACT001,Anticavity Fluoride Rinse,B_6d37398f,CAT_2,Adult,100
+MWACT002,Total Care Anticavity Mouthwash,B_6d37398f,CAT_2,Adult,100
+MWACT003,Whitening + Anticavity Fluoride Mouthwash,B_6d37398f,CAT_2,Adult,100
+MWTHB001,Fresh Breath Oral Rinse,B_dbb12c68,CAT_2,Adult,100
+MWTHB002,Dry Mouth Oral Rinse,B_dbb12c68,CAT_2,Adult,100
+FLORB001,Glide Original Floss,B_ab04317f,CAT_3,Adult,100
+FLORB002,Glide Deep Clean Floss,B_ab04317f,CAT_3,Adult,100
+FLORB003,Glide Comfort Plus Floss,B_ab04317f,CAT_3,Adult,100
+FLORB004,Glide with Scope Flavor Floss,B_ab04317f,CAT_3,Adult,100
+FLORB005,Glide Floss Picks,B_ab04317f,CAT_3,Adult,100
+FLORB006,Super Floss (Braces/Bridges),B_ab04317f,CAT_3,Adult,100
+FLORB007,Essential Waxed Floss,B_ab04317f,CAT_3,Adult,100
+FLCOL001,Total Waxed Floss,B_51355bb6,CAT_3,Adult,100
+FLCOL002,Dental Floss Picks,B_51355bb6,CAT_3,Adult,100
+FLCOL003,360 Floss-Tip Picks,B_51355bb6,CAT_3,Adult,100
+FLCOL004,Wave 3-in-1 Floss Picks,B_51355bb6,CAT_3,Adult,100
+FLGUM001,Soft-Picks Advanced,B_b40d22c9,CAT_3,Adult,100
+FLGUM002,Eez-Thru Waxed Floss,B_b40d22c9,CAT_3,Adult,100
+FLGUM003,Expanding Floss,B_b40d22c9,CAT_3,Adult,100
+FLTOM001,"Antiplaque Flat Floss, Naturally Waxed",B_65dffb3d,CAT_3,Adult,100
+FLCOC001,Cocofloss Original Woven Floss,B_def061c6,CAT_3,Adult,100
+FLCOC002,Cocofloss Kids Woven Floss,B_def061c6,CAT_3,Adult,100
+FLREA001,Waxed Dental Floss,B_ae035611,CAT_3,Adult,100
+FLREA002,Clean Burst Floss Picks,B_ae035611,CAT_3,Adult,100
+FLDEN001,Comfort Clean Floss Picks,B_ecda8014,CAT_3,Adult,100
+FLDEN002,Triple Clean Floss,B_ecda8014,CAT_3,Adult,100
+ETORB001,iO Series 10,B_ab04317f,CAT_4,Adult,100
+ETORB002,iO Series 9,B_ab04317f,CAT_4,Adult,100
+ETORB003,iO Series 7,B_ab04317f,CAT_4,Adult,100
+ETORB004,iO Series 4,B_ab04317f,CAT_4,Adult,100
+ETORB005,Pro 1000 CrossAction,B_ab04317f,CAT_4,Adult,100
+ETORB006,Pro 5000 SmartSeries,B_ab04317f,CAT_4,Adult,100
+ETORB007,Genius X,B_ab04317f,CAT_4,Adult,100
+ETORB008,Vitality FlossAction,B_ab04317f,CAT_4,Adult,100
+ETCOL001,360 Sonic Power Toothbrush,B_51355bb6,CAT_4,Adult,100
+ETCOL002,hum by Colgate Smart Toothbrush,B_51355bb6,CAT_4,Adult,100
+ETCOL003,Optic White Sonic Toothbrush,B_51355bb6,CAT_4,Adult,100
+ETCOL004,Total Battery Powered Toothbrush,B_51355bb6,CAT_4,Adult,100
+ETCOL005,Kids Minecraft Battery Toothbrush,B_51355bb6,CAT_4,Adult,100
+ETPHI001,DiamondClean Smart 9300,B_0427a00b,CAT_4,Adult,100
+ETPHI002,Prestige 9900 with SenseIQ,B_0427a00b,CAT_4,Adult,100
+ETPHI003,ProtectiveClean 6100,B_0427a00b,CAT_4,Adult,100
+ETPHI004,ProtectiveClean 4100,B_0427a00b,CAT_4,Adult,100
+ETPHI005,ExpertClean 7300,B_0427a00b,CAT_4,Adult,100
+ETCUR001,Hydrosonic Pro,B_df88995f,CAT_4,Adult,100
+ETCUR002,Hydrosonic Easy,B_df88995f,CAT_4,Adult,100

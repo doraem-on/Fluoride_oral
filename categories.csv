@@ -1,2 +1,5 @@
 Category_ID,Category_Name,Subcategory_Name
 CAT_1,Toothpaste,General
+CAT_2,Mouthwash,General
+CAT_3,Dental Floss,General
+CAT_4,Electric Toothbrush,Hardware

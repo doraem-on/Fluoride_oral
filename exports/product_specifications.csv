@@ -1,0 +1,124 @@
+Product_ID,Spec_Name,Spec_Value
+FLORB001,Floss Type,String
+FLORB001,Waxed,Yes
+FLORB001,Flavor,Unflavored/Mint
+FLORB002,Floss Type,String (Dental Tape)
+FLORB002,Waxed,Yes
+FLORB002,Flavor,Cool Mint
+FLORB003,Floss Type,String
+FLORB003,Waxed,Yes
+FLORB003,Flavor,Mint
+FLORB004,Floss Type,String
+FLORB004,Waxed,Yes
+FLORB004,Flavor,Scope Mint
+FLORB005,Floss Type,Picks
+FLORB005,Waxed,Yes
+FLORB005,Flavor,Mint/Arctic Peppermint
+FLORB006,Floss Type,Tape + Threader + Regular
+FLORB006,Waxed,Yes
+FLORB006,Flavor,Mint
+FLORB007,Floss Type,String
+FLORB007,Waxed,Yes
+FLORB007,Flavor,Mint
+FLCOL001,Floss Type,String
+FLCOL001,Waxed,Yes
+FLCOL001,Flavor,Mint
+FLCOL002,Floss Type,Picks
+FLCOL002,Waxed,Yes
+FLCOL002,Flavor,Mint
+FLCOL003,Floss Type,Picks
+FLCOL003,Waxed,Yes
+FLCOL003,Flavor,Mint
+FLCOL004,Floss Type,Picks
+FLCOL004,Waxed,Yes
+FLCOL004,Flavor,Mint
+FLGUM001,Floss Type,Rubber Interdental Pick
+FLGUM001,Waxed,No
+FLGUM001,Flavor,Unflavored
+FLGUM002,Floss Type,String
+FLGUM002,Waxed,Yes
+FLGUM002,Flavor,Mint
+FLGUM003,Floss Type,Expanding String
+FLGUM003,Waxed,Yes
+FLGUM003,Flavor,Mint
+FLTOM001,Floss Type,Tape
+FLTOM001,Waxed,Yes
+FLTOM001,Flavor,Spearmint
+FLCOC001,Floss Type,Woven String
+FLCOC001,Waxed,Yes
+FLCOC001,Flavor,Coconut Mint
+FLCOC002,Floss Type,Woven String
+FLCOC002,Waxed,Yes
+FLCOC002,Flavor,Bubblegum
+FLREA001,Floss Type,String
+FLREA001,Waxed,Yes
+FLREA001,Flavor,Mint
+FLREA002,Floss Type,Picks
+FLREA002,Waxed,Yes
+FLREA002,Flavor,Mint
+FLDEN001,Floss Type,Picks
+FLDEN001,Waxed,Yes
+FLDEN001,Flavor,Mint
+FLDEN002,Floss Type,String
+FLDEN002,Waxed,Yes
+FLDEN002,Flavor,Mint
+ETORB001,Brush Type,Oscillating-Rotating (Magnetic Drive)
+ETORB001,Pressure Sensor,Yes
+ETORB001,App Connectivity,Yes
+ETORB002,Brush Type,Oscillating-Rotating (Magnetic Drive)
+ETORB002,Pressure Sensor,Yes
+ETORB002,App Connectivity,Yes
+ETORB003,Brush Type,Oscillating-Rotating (Magnetic Drive)
+ETORB003,Pressure Sensor,Yes
+ETORB003,App Connectivity,Yes
+ETORB004,Brush Type,Oscillating-Rotating (Magnetic Drive)
+ETORB004,Pressure Sensor,Yes
+ETORB004,App Connectivity,No
+ETORB005,Brush Type,Oscillating-Rotating-Pulsating
+ETORB005,Pressure Sensor,Yes
+ETORB005,App Connectivity,No
+ETORB006,Brush Type,Oscillating-Rotating-Pulsating
+ETORB006,Pressure Sensor,Yes
+ETORB006,App Connectivity,Yes
+ETORB007,Brush Type,Oscillating-Rotating-Pulsating
+ETORB007,Pressure Sensor,Yes
+ETORB007,App Connectivity,Yes
+ETORB008,Brush Type,Oscillating-Rotating
+ETORB008,Pressure Sensor,No
+ETORB008,App Connectivity,No
+ETCOL001,Brush Type,Sonic
+ETCOL001,Pressure Sensor,No
+ETCOL001,App Connectivity,No
+ETCOL002,Brush Type,Sonic
+ETCOL002,Pressure Sensor,No
+ETCOL002,App Connectivity,Yes
+ETCOL003,Brush Type,Sonic
+ETCOL003,Pressure Sensor,No
+ETCOL003,App Connectivity,No
+ETCOL004,Brush Type,Battery Vibrating
+ETCOL004,Pressure Sensor,No
+ETCOL004,App Connectivity,No
+ETCOL005,Brush Type,Battery Vibrating
+ETCOL005,Pressure Sensor,No
+ETCOL005,App Connectivity,No
+ETPHI001,Brush Type,Sonic
+ETPHI001,Pressure Sensor,Yes
+ETPHI001,App Connectivity,Yes
+ETPHI002,Brush Type,Sonic
+ETPHI002,Pressure Sensor,Yes
+ETPHI002,App Connectivity,Yes
+ETPHI003,Brush Type,Sonic
+ETPHI003,Pressure Sensor,Yes
+ETPHI003,App Connectivity,No
+ETPHI004,Brush Type,Sonic
+ETPHI004,Pressure Sensor,Yes
+ETPHI004,App Connectivity,No
+ETPHI005,Brush Type,Sonic
+ETPHI005,Pressure Sensor,Yes
+ETPHI005,App Connectivity,Yes
+ETCUR001,Brush Type,Sonic
+ETCUR001,Pressure Sensor,Yes
+ETCUR001,App Connectivity,No
+ETCUR002,Brush Type,Sonic
+ETCUR002,Pressure Sensor,No
+ETCUR002,App Connectivity,No
